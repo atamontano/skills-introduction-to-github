@@ -1,3 +1,2 @@
-Welcome to my GitHub profile
-Cambios
-haciendo un pull
+Welcome to my GitHub
+Hola mundo
